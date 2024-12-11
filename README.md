@@ -1,4 +1,4 @@
-![logo](https://github.com/prince4you/prince4you/blob/main/Picsart_24-04-09_10-57-12-056.jpg)
+![logo](IMG_20241211_072558.jpg)
 # <span style="color: #00bfff;">🔓 ZIP Cracker - Fast & Efficient Password Cracking Tool for ZIP Files 🔑</span>
 
 ## <span style="color: #32cd32;">Description</span>
