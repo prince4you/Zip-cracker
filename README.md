@@ -1,5 +1,5 @@
-# Zip-cracker
- # <span style="color: #00bfff;">🔓 ZIP Cracker - Fast & Efficient Password Cracking Tool for ZIP Files 🔑</span>
+![logo](https://github.com/prince4you/prince4you/blob/main/Picsart_24-04-09_10-57-12-056.jpg)
+# <span style="color: #00bfff;">🔓 ZIP Cracker - Fast & Efficient Password Cracking Tool for ZIP Files 🔑</span>
 
 ## <span style="color: #32cd32;">Description</span>
 **ZIP Cracker** is a **powerful yet simple** tool designed to **crack password-protected ZIP archives** using a **wordlist-based attack**. Ideal for **ethical hackers**, **cybersecurity professionals**, and anyone looking to recover passwords, this tool works seamlessly across **Linux**, **Windows**, and **macOS**. With just a ZIP file and a wordlist, this tool will attempt to break the password efficiently.
