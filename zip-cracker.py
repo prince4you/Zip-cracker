@@ -16,7 +16,7 @@ def banner():
     print(colored("Created by: Sunil", "green"))
     print(colored("Channel: Noob Cyber Tech", "yellow"))
     print(colored("Instagram: @annon_4you", "yellow"))
-    print(colored("GitHub: https://github.com/yourusername", "green"))
+    print(colored("https://github.com/prince4you", "green"))
     print(colored("=====================================", "cyan"))
 
 # Function to crack zip password
