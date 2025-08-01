@@ -19,7 +19,8 @@
 - Required libraries:
   - `pyfiglet`
   - `termcolor`
-
+  - `tqdm`
 To install required libraries:
 ```bash
-pip install pyfiglet termcolor
+
+pip install tqdm requests termcolor pyfiglet
